@@ -67,6 +67,3 @@ Todo-Application/
             ├── TodoList.js
             ├── TodoItem.js
             └── AddTodo.js
-
-# 📁 Project Structure
-
