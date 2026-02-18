@@ -36,6 +36,7 @@ A simple full-stack Todo application built using:
 
 # 📁 Project Structure
 
+```
 Todo-Application/
 │
 ├── backend/
@@ -67,3 +68,4 @@ Todo-Application/
             ├── TodoList.js
             ├── TodoItem.js
             └── AddTodo.js
+```
